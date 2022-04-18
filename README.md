@@ -1,14 +1,8 @@
-### Installation
-- Add this text in your `server.cfg` :
+
 ```
-ensure redm-idoverhead
+ensure savifx_id
 ```
 
 #### Features
-- Show How Player Talking
-- Show Player ID
+- ALT tuşuna basılı olduğu sürece idleri gösterir
 
-### Information
-This Resource Develop By **AmIrReZa#2080** & it's for Convenience & improve your server
-
-  **Copyright 2022 by AmIrReZa#2080**
